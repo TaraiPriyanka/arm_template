@@ -90,11 +90,19 @@ Static websites often need a scalable and resilient deployment strategy to handl
 - **Website Link:** [Pet Shop Website](https://github.com/TaraiPriyanka/arm_template.git)
 - **Screenshots:**
   - **Resource Group Creation Output**
-  - **VNet Deployment Output**
+    ![ResourceGroupSS](https://github.com/user-attachments/assets/f0c7a739-481b-4237-a908-014aa559e3ea)
+
   - **VM 1 Deployment**
+    ![vm1SS](https://github.com/user-attachments/assets/ff12fee0-f6fb-4636-af57-3ce3206ff479)
+
   - **VM 2 Deployment**
-  - **Load Balancer Setup**
+    ![vm2SS](https://github.com/user-attachments/assets/8b24d05f-44e2-47c8-b643-acb20f8a389d)
+
+  - **Load Balancer **
+   ![LoadBalancerSS](https://github.com/user-attachments/assets/c7517bc5-da5a-4475-8760-e8c1344ff1b4)
+
   - **Website Home Page**
+   ![PETSHOPHomePageSS](https://github.com/user-attachments/assets/88c35f4e-f4b6-4195-908c-8c9014ac8f53)
 
 ## Conclusion
 
