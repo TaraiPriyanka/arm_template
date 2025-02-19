@@ -110,6 +110,6 @@ This project successfully demonstrates the deployment of a **highly available st
 
 ## Authors
 
-**Tarai Priyanka, Ganj Bhavana, Yarlagadda Jasmitha, Subhanpuram Thanvi Sree**  
+**Tarai Priyanka, Ganji Bhavana, Yarlagadda Jasmitha, Subhanpuram Thanvi Sree**  
 We are passionate about technology and cloud computing. This project demonstrates how **Azure services** can be leveraged for **scalable and resilient** deployments! 🚀
 
